@@ -119,7 +119,7 @@ const EditProfile = () => {
                                     <div class="absolute">
                                         Currently Image
                                     </div>
-                                    <img src={`https://dull-erin-skunk-toga.cyclic.app/userPhotos/${previousPhoto}`} alt="userPhoto" />
+                                    <img src={`https://pink-duck-tux.cyclic.app/userPhotos/${previousPhoto}`} alt="userPhoto" />
                                 </div>
 
                             </div>
