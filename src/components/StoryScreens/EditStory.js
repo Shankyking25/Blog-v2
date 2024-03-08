@@ -108,7 +108,7 @@ const EditStory = () => {
                                 <div class="absolute">
                                     Currently Image
                                 </div>
-                                <img src={`https://pink-duck-tux.cyclic.app/storyImages/${previousImage}`} alt="storyImage" />
+                                <img src={`https://dull-erin-skunk-toga.cyclic.app/storyImages/${previousImage}`} alt="storyImage" />
                             </div>
                             <div class="StoryImageField">
                                 <AiOutlineUpload />
